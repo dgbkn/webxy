@@ -1,10 +1,10 @@
 {
-  "name": "nodeunblocker.com",
-  "description": "Web proxy for evading internet censorship",
-  "author": "Nathan Friedly - http://nfriedly.com",
+  "name": "goinc.com",
+  "description": "Web Sooft",
+  "author": "DEV",
   "version": "1.0.0",
   "private": "true",
-  "homepage": "http://nodeunblocker.com/",
+  "homepage": "http://google.com/",
   "dependencies": {
     "express": "^4.13.0",
     "gatling": "~1.2.0",
